@@ -1,0 +1,14 @@
+D:\Lab6\exercise\Ex_2\Ex_2\bin\Debug\net6.0\Ex_2.exe
+D:\Lab6\exercise\Ex_2\Ex_2\bin\Debug\net6.0\Ex_2.deps.json
+D:\Lab6\exercise\Ex_2\Ex_2\bin\Debug\net6.0\Ex_2.runtimeconfig.json
+D:\Lab6\exercise\Ex_2\Ex_2\bin\Debug\net6.0\Ex_2.dll
+D:\Lab6\exercise\Ex_2\Ex_2\bin\Debug\net6.0\Ex_2.pdb
+D:\Lab6\exercise\Ex_2\Ex_2\obj\Debug\net6.0\Ex_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab6\exercise\Ex_2\Ex_2\obj\Debug\net6.0\Ex_2.AssemblyInfoInputs.cache
+D:\Lab6\exercise\Ex_2\Ex_2\obj\Debug\net6.0\Ex_2.AssemblyInfo.cs
+D:\Lab6\exercise\Ex_2\Ex_2\obj\Debug\net6.0\Ex_2.csproj.CoreCompileInputs.cache
+D:\Lab6\exercise\Ex_2\Ex_2\obj\Debug\net6.0\Ex_2.dll
+D:\Lab6\exercise\Ex_2\Ex_2\obj\Debug\net6.0\refint\Ex_2.dll
+D:\Lab6\exercise\Ex_2\Ex_2\obj\Debug\net6.0\Ex_2.pdb
+D:\Lab6\exercise\Ex_2\Ex_2\obj\Debug\net6.0\Ex_2.genruntimeconfig.cache
+D:\Lab6\exercise\Ex_2\Ex_2\obj\Debug\net6.0\ref\Ex_2.dll
